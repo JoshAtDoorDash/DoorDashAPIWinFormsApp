@@ -1,7 +1,7 @@
 # DoorDashAPIWinFormsApp
 DoorDash API Windows Forms Sample App
 
-This application is targets [.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0), and requires running on a Windows OS. 
+This application targets [.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) and requires a Windows OS to run. 
 
 ## More About DoorDash Credentails
 - [DoorDash JWT Format](https://developer.doordash.com/en-US/docs/drive/reference/JWTs/)
