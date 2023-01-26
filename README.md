@@ -8,6 +8,8 @@ This application is targets [.NET 7](https://dotnet.microsoft.com/en-us/download
 - [Manage DoorDash Credentails](https://developer.doordash.com/en-US/docs/drive/how_to/manage_credentials/)
 - [Create DoorDash JSON Web Tokens (JWTs)](https://developer.doordash.com/en-US/docs/drive/how_to/JWTs)
 
-## Related Content</h2>
+## Related Utilities</h2>
 - [auth0 JWT Debugger](https://jwt.io/)
 - [DoorDash API JWT JSFiddle Sample](https://jsfiddle.net/joshAtDoorDash/yha049fn/)
+- [make-doordash-jwt CLI](https://github.com/infin8x/make-doordash-jwt)
+- [DoorDash API get started with Postman](https://developer.doordash.com/en-US/docs/drive/tutorials/get_started_postman/)
