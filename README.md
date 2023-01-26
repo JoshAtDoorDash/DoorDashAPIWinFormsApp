@@ -11,7 +11,7 @@ Follow these steps to run the sample app:
 4. Provide the DoorDash Credentails (Developer ID, Key ID, and Signing Secret) created in the [DoorDash Developer Portal](https://developer.doordash.com/portal/integration/drive/credentials).
 5. Click the "Update JWT" button.
 
-## To Build Sample App with the .NET CLI
+## Build Sample App with the .NET CLI
 Follow these steps to build the sample app with the .NET CLI:
 1. Install the [.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) SDK (includes the .NET CLI).
 2. Clone this repo to local folder or download and the files in the source folder into a local directory. 
@@ -19,7 +19,7 @@ Follow these steps to build the sample app with the .NET CLI:
 4. Run the following command: ``dotnet build``
 5. The applicaiton can be run from within the **../bin/Debug/net7.0-windows/** folder.
 
-## To Build Sample App with Visual Studio
+## Build Sample App with Visual Studio
 Follow these steps to build the sample app with Visual Studio:
 1. Install the [.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) SDK (includes the .NET CLI).
 2. Install Visual Studio 2022 (Community, Professional, or Enterprise).
