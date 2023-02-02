@@ -33,7 +33,7 @@ Follow these steps to build the sample app with Visual Studio:
 
 ## Related Utilities and Samples</h2>
 - [auth0 JWT Debugger](https://jwt.io/)
-- [DoorDash API JWT JSFiddle Sample](https://jsfiddle.net/joshAtDoorDash/yha049fn/)
+- [DoorDash API JWT JSFiddle Sample](https://bit.ly/doordashapi)
 - [make-doordash-jwt CLI](https://github.com/infin8x/make-doordash-jwt)
 - [DoorDash API get started with Postman](https://developer.doordash.com/en-US/docs/drive/tutorials/get_started_postman/)
 - [DoorDash SDK Example Application](https://github.com/doordash-oss/doordash_sdk_example_application)
